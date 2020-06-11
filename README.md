@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+  
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/yogesh768kumar/webdevelopment-course/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment Solution for Module 2</title>
+    <link rel="stylesheet" href="mycss.css">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <h1>Our Menu </h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="Chicken">
+                <h2>Chicken</h2>
+                <p>
+                    Chickens are omnivores. In the wild, they often scratch at the soil to search for seeds, insects and even animals as large as lizards, small snakes,[16] or young mice.The average chicken may live for five to ten years, depending on the breed.[18] The world's oldest known chicken was a hen which died of heart failure at the age of 16 years according to the Guinness World Records. 
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="Beef">
+                <h2>Beef</h2>
+                <p>
+                    Beef is the third most widely consumed meat in the world, accounting for about 25% of meat production worldwide, after pork and poultry at 38% and 30% respectively.[5] In absolute numbers, the United States, Brazil, and the People's Republic of China are the world's three largest consumers of beef; Uruguay, however, has the highest beef and veal consumption per capita, followed by Argentina and Brazil. 
+                    
+                </p>
+            </section>
+        </div>
+        <div  class="col-lg-4 col-md-12 col-sm-12">
+            <section class="Sushi">
+                <h2>Sushi</h2>
+                <p>
+                    Sushi is traditionally made with medium-grain white rice, though it can be prepared with brown rice or short-grain rice. It is very often prepared with seafood, such as squid, eel, yellowtail, salmon, tuna or imitation crab meat. Many types of sushi are vegetarian. It is often served with pickled ginger (gari), wasabi, and soy sauce. Daikon radish or pickled daikon (takuan) are popular garnishes for the dish.
+                </p>
+            </section>
+        </div>
+    </div>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yogesh768kumar/webdevelopment-course/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
